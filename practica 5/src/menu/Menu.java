@@ -61,7 +61,7 @@ public class Menu {
 
 	public void pintarMenuPrincipal(){
 		System.out.println("===================================");
-		System.out.println("=              Menu               =");
+		System.out.println("=      Menudos huevoh      =");
 		System.out.println("===================================");
 		System.out.println("= 1) Alta empleat                 =");
 		System.out.println("= 2) Alta comercial               =");
