@@ -88,7 +88,7 @@ public class Menu {
 			switch (selec){
 			case 1:
 				System.out.println("····································");
-				System.out.println("Accedint a Alta empleat...");
+				System.out.println("AccedintADNASKLDMASKDASDASKD...");
 				System.out.println("····································");
 				Empleat e = Emp.demanarAlta();
 				if(e != null){
@@ -98,7 +98,7 @@ public class Menu {
 				break;
 			case 2:
 				System.out.println("····································");
-				System.out.println("Accedint a Alta comercial...");
+				System.out.println("ASDLASMLDASMDASLÑDASLDM a Alta comercial...");
 				System.out.println("····································");
 				Comercial c = Com.demanarAlta();
 				if(c != null){
@@ -131,13 +131,13 @@ public class Menu {
 				break;
 			case 6:
 				System.out.println("····································");
-				System.out.println("Accedint a atributs repartidor...");
+				System.out.println("ASDASKDMLASDMSADLML a atributs repartidor...");
 				System.out.println("····································");
 				mostrarAtributsRepartidor();
 				break;	
 			case 7:
 				System.out.println("····································");
-				System.out.println("Exit del programa...");
+				System.out.println("ExQWEJIQWEJWQEJWQJEWQJEEJWQEJWQEJIWQOE...");
 				System.out.println("····································");
 				break;
 			default:
