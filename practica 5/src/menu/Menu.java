@@ -61,7 +61,7 @@ public class Menu {
 
 	public void pintarMenuPrincipal(){
 		System.out.println("===================================");
-		System.out.println("=              Menu               =");
+		System.out.println("=              caca               =");
 		System.out.println("===================================");
 		System.out.println("= 1) Alta empleat                 =");
 		System.out.println("= 2) Alta comercial               =");
@@ -69,7 +69,7 @@ public class Menu {
 		System.out.println("= 4) Mostrar atributs empleat     =");
 		System.out.println("= 5) Mostrar atributs comercial   =");
 		System.out.println("= 6) Mostrar atributs repartidor  =");
-		System.out.println("= 7) Exit                         =");
+		System.out.println("= 7) adios                         =");
 		System.out.println("===================================");
 		System.out.println("Selecciona l'opcio que desitge: ");
 	}
