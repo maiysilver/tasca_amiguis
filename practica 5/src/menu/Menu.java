@@ -108,7 +108,6 @@ public class Menu {
 				break;
 			case 3:
 				System.out.println("····································");
-				System.out.println("Accedint a Alta repartidor...");
 				System.out.println("····································");
 				Repartidor r = Rep.demanarAlta();
 				if(r != null) {
