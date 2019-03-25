@@ -1,4 +1,4 @@
-package menu;
+﻿package menu;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -60,18 +60,18 @@ public class Menu {
 	}
 
 	public void pintarMenuPrincipal(){
+		System.out.println("=     Daniel De Leon Mairena      =");
 		System.out.println("===================================");
 		System.out.println("=              caca               =");
-		System.out.println("=      Menudos huevoh      =");
 		System.out.println("===================================");
 		System.out.println("= 1) Alta empleat                 =");
 		System.out.println("= 2) Alta comercial               =");
 		System.out.println("= 3) Alta repartidor              =");
-		System.out.println("= 4) Mostrar atributs empleat     =");
+		System.out.println("= 4) Mostrar pollita              =");
 		System.out.println("= 5) Mostrar atributs comercial   =");
 		System.out.println("= 6) Mostrar atributs repartidor  =");
-		System.out.println("= 7) adios                         =");
-		System.out.println("= 7) Exitoso                         =");
+		System.out.println("= 7) adiosito                     =");
+		System.out.println("= 7) Exitoso                      =");
 		System.out.println("===================================");
 		System.out.println("Selecciona l'opcio que desitge: ");
 	}
